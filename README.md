@@ -1,4 +1,4 @@
-License Data Parser App
+#License Data Parser App
 
 This app is designed to take an image of a drivers license and extract individual pieces of information from the image and store them as properties of an object that can then be used at a later time.
 
